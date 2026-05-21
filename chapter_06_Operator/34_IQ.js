@@ -16,4 +16,11 @@ console.log(x);
 x %= 2;
 console.log(x);
 
+a = 15;
+a += 5;
+console.log(a);
+
+
+a -= 5;
+console.log(a);
 
