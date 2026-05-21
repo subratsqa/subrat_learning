@@ -16,3 +16,8 @@ console.log(index2);
 let text5 = "Please locate where 'locate' occurs!";
 let my_string = text5.search("locate");
 console.log(my_string)
+
+/*The two methods are NOT equal. These are the differences:
+
+    The search() method cannot take a second start position argument.
+    The indexOf() method cannot take powerful search values (regular expressions).*/
