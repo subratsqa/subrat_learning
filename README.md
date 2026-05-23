@@ -14,7 +14,7 @@ This repository contains code and projects for Subrat's learning journey. It ser
 - `while_loop1.js` - While loop exercises and implementations
 
 ### 22nd May Task (`22thMay_task/`)
-- `tringle_check.js` - Triangle validation and classification exercises
+- `tringle_check.js` - Triangle validation and classification exercises; Updated with improved FizzBuzz implementation
 
 ## Learning Goals
 
