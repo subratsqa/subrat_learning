@@ -50,6 +50,11 @@ This repository contains comprehensive JavaScript learning exercises and project
 ### Playwright Learning (`playwright_learning/`)
 - `example.spec.ts` - Playwright automated testing examples
 
+### Promises (`Promise/`)
+- `promise_api_call.js` - Promise-based API call examples
+- `promise_daycheck_check.js` - Promise patterns for day validation
+- `promise_prg_1.js` - Basic promise programming exercises
+
 ## Learning Goals
 
 - Master fundamental JavaScript concepts
@@ -108,6 +113,10 @@ subrat_learning/
 │   └── tringle_check.js
 ├── playwright_learning/
 │   └── example.spec.ts
+├── Promise/
+│   ├── promise_api_call.js
+│   ├── promise_daycheck_check.js
+│   └── promise_prg_1.js
 ├── package.json
 ├── package-lock.json
 ├── playwright.config.ts
