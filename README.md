@@ -54,6 +54,8 @@ This repository contains comprehensive JavaScript learning exercises and project
 - `promise_api_call.js` - Promise-based API call examples
 - `promise_daycheck_check.js` - Promise patterns for day validation
 - `promise_prg_1.js` - Basic promise programming exercises
+- `promise_finally.js` - Promise finally() method patterns
+- `promise_withCondiftion.js` - Promise conditional logic examples
 
 ## Learning Goals
 
@@ -116,7 +118,9 @@ subrat_learning/
 ├── Promise/
 │   ├── promise_api_call.js
 │   ├── promise_daycheck_check.js
-│   └── promise_prg_1.js
+│   ├── promise_finally.js
+│   ├── promise_prg_1.js
+│   └── promise_withCondiftion.js
 ├── package.json
 ├── package-lock.json
 ├── playwright.config.ts
